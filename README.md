@@ -4,4 +4,4 @@ Benchmark Pytorch optimizers for CNN classifier (cats/dogs) with different LR va
 - Adam
 - RMS Prop
 # current status
-Work is uder progress and results shouldn't be relied on.
+Work is uder progress and observable results shouldn't be relied on.
